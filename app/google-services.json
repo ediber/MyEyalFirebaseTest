@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "5325590882",
+    "firebase_url": "https://gdudeyalim.firebaseio.com",
+    "project_id": "gdudeyalim",
+    "storage_bucket": "gdudeyalim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5325590882:android:cf1d91589815cc94ce1c3b",
+        "android_client_info": {
+          "package_name": "com.myeyalfirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5325590882-u9da4ro3cd2t1gp238m7okb6luge6ei4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFFPCkotN5bD3f9ty63VkMuZp6HpxSqgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5325590882-u9da4ro3cd2t1gp238m7okb6luge6ei4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
